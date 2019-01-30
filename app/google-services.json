@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764235365016",
+    "firebase_url": "https://testpushnotification-970.firebaseio.com",
+    "project_id": "testpushnotification-970",
+    "storage_bucket": "testpushnotification-970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764235365016:android:efbf8d752463d2bc",
+        "android_client_info": {
+          "package_name": "sg.edu.nus.imovin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764235365016-b2h7euhfdv3is7a7so063no60nojeto9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.edu.nus.imovin",
+            "certificate_hash": "152c7b3b28902884e07bd184b0c0d436a16ad274"
+          }
+        },
+        {
+          "client_id": "764235365016-ibaevnu216u89f2ooibuoe7rm0o9vojc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXRzRimfdzh8wwBpOS2zo9EkJao8j_kw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764235365016-ibaevnu216u89f2ooibuoe7rm0o9vojc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
